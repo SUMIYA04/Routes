@@ -1,0 +1,28 @@
+.home {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .home h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #007bff;
+  }
+  
+  .home p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  .navigation a {
+    text-decoration: none;
+    margin: 0 15px;
+    color: #333;
+    font-size: 1.1rem;
+  }
+  
+  .navigation a.active {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
